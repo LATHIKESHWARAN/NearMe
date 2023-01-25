@@ -12,7 +12,7 @@ Write your own steps here.
 Include your HTML code here
 
 ## Output:
-Include your output screenshot here
+
 
 ## Result:
 Write your result
